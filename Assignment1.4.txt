@@ -30,15 +30,6 @@ use 40 machines with 256 GB of storage and 2 GB of RAM
 
 3. Differences between scaling up and scaling out :
   
-   1. Scale Up
-• Increase the configuration of a single system
-• Like disk capacity, RAM, data transfer speed
-• Complex, costly, and time consuming process
-   
-   2. Scale Out
-• Use multiple commodity machines and distribute the load of
-storage/processing among them
-• Economical and quick to implement as it focuses on distribution of load
-• Instead of having a single system with 10 TB of storage and 80 GB of RAM,
-use 40 machines with 256 GB of storage and 2 GB of RAM
-
+  Scaling up generally refers to purchasing and installing a more capable central control or piece of hardware. For example, when a project’s input/output demands start to push against the limits of an individual server, a scaling up approach would be to buy a more capable server with more processing capacity and RAM.
+  
+  By contrast, scaling out means linking together other lower-performance machines to collectively do the work of a much more advanced one. With these types of distributed setups, it's easy to handle a larger workload by running data through different system trajectories.
