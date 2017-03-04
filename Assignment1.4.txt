@@ -1,29 +1,29 @@
 1. Characteristics of Big data :
-   Volume – The name 'Big Data' itself is related to a size which is enormous. 
-            Size of data plays very crucial role in determining value out of data.
-   Variety – The next aspect of 'Big Data' is its variety.
-             Variety refers to heterogeneous sources and the nature of data, both structured and unstructured.
-   Velocity – The term 'velocity' refers to the speed of generation of data. 
+
+   Volume â€“ Size of data plays very crucial role in determining value out of data.
+   Variety â€“ Variety refers to heterogeneous sources and the nature of data, both structured and unstructured.
+   Velocity â€“ The term 'velocity' refers to the speed of generation of data. 
               How fast the data is generated and processed to meet the demands, determines real potential in the data.
-              Big Data Velocity deals with the speed at which data flows in from sources like business processes, application logs, networks and social media sites, sensors, Mobile devices, etc. 
-              The flow of data is massive and continuous.
-   Variability – This refers to the inconsistency which can be shown by the data at times, 
+              Big Data Velocity deals with the speed at which data flows in from sources like business processes, application logs,                  networks and social media sites, sensors, Mobile devices, etc. 
+  Variability â€“ This refers to the inconsistency which can be shown by the data at times, 
                 thus hampering the process of being able to handle and manage the data effectively.
 
 
 
 2. Possible solutions to handle Big data :
    
-   1. Scale Up
-• Increase the configuration of a single system
-• Like disk capacity, RAM, data transfer speed
-• Complex, costly, and time consuming process
+   There are 2 possible solutions to handle big data:
    
-   2. Scale Out
-• Use multiple commodity machines and distribute the load of
+    Scale Up: We can Scale Up the system by
+â€¢ Increasing the configuration of a single system
+â€¢ Like disk capacity, RAM, data transfer speed
+â€¢ Complex, costly, and time consuming process
+   
+    Scale Out: We can Scale out the system by
+â€¢ Using multiple commodity machines and distribute the load of
 storage/processing among them
-• Economical and quick to implement as it focuses on distribution of load
-• Instead of having a single system with 10 TB of storage and 80 GB of RAM,
+â€¢ Economical and quick to implement as it focuses on distribution of load
+â€¢ Instead of having a single system with 10 TB of storage and 80 GB of RAM,
 use 40 machines with 256 GB of storage and 2 GB of RAM
 
 
@@ -31,14 +31,14 @@ use 40 machines with 256 GB of storage and 2 GB of RAM
 3. Differences between scaling up and scaling out :
   
    1. Scale Up
-• Increase the configuration of a single system
-• Like disk capacity, RAM, data transfer speed
-• Complex, costly, and time consuming process
+â€¢ Increase the configuration of a single system
+â€¢ Like disk capacity, RAM, data transfer speed
+â€¢ Complex, costly, and time consuming process
    
    2. Scale Out
-• Use multiple commodity machines and distribute the load of
+â€¢ Use multiple commodity machines and distribute the load of
 storage/processing among them
-• Economical and quick to implement as it focuses on distribution of load
-• Instead of having a single system with 10 TB of storage and 80 GB of RAM,
+â€¢ Economical and quick to implement as it focuses on distribution of load
+â€¢ Instead of having a single system with 10 TB of storage and 80 GB of RAM,
 use 40 machines with 256 GB of storage and 2 GB of RAM
 
